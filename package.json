@@ -31,7 +31,7 @@
         "url": "https://code.forcir.com"
     },
     "type": "module",
-    "main": "dist/index",
+    "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "files": [
         "dist"
